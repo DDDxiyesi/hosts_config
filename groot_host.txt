@@ -2,8 +2,6 @@
 
 # groot
 
-11.47.224.88 groot.jd.com
-11.40.69.212 atlas.jd.com
 11.50.59.166 i.jsf.jd.com
 11.50.62.85 cfs.jim.jd.local
 192.168.222.76 console.jimdb.jd.com
