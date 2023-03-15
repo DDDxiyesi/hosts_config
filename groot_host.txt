@@ -3,7 +3,7 @@
 # groot
 
 11.50.59.166 i.jsf.jd.com
-11.50.62.85 cfs.jim.jd.local
+11.158.69.80 cfs.jim.jd.local 
 192.168.222.76 console.jimdb.jd.com
 
 192.168.171.31 jimdb-share.jd.com new-admin-share.jimdb.jd.com
